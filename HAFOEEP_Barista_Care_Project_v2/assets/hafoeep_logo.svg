@@ -1,0 +1,10 @@
+<svg width="420" height="150" viewBox="0 0 420 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="150" fill="#17191c"/>
+  <g transform="translate(18,20)">
+    <path d="M18 92V10h22v31h52V10h22v82H92V62H40v30z" fill="#c5c9ce"/>
+    <path d="M45 42h42l-9 16H54z" fill="#17191c"/>
+    <path d="M52 30c-7-9 5-14 0-24M66 30c-7-9 5-14 0-24M80 30c-7-9 5-14 0-24" stroke="#c5c9ce" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="160" y="77" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="6" fill="#f0f1f2">HAFOEEP</text>
+  <text x="161" y="106" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="3.4" fill="#b7bdc3">PRECISION COFFEE CARE</text>
+</svg>
